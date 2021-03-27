@@ -14,6 +14,7 @@ public class MainClass {
 		
 		System.out.println("Shallow compare " +(e1 == e2));
 		System.out.println("Deep compare " +(e1.equals(e2)));
+		System.out.println("Deep compare " +(e1.equals(e2)));
 	}
 
 }

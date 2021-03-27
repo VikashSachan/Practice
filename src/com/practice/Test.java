@@ -6,6 +6,8 @@ public class Test {
 
 		Double amount = 9.9999999999998333;
 		System.out.println(amount);
+		System.out.println(amount);
+		
 		
 	}
 
